@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @KeyDragon99
+- 👀 I’m interested in: Machine Learning, Computer Vision and Bioinformatics
+- 📫 How to reach me: via my e-mail at simosgiaz@gmail.com
